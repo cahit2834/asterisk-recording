@@ -29,7 +29,9 @@
 -Db.php dosyanız ile db bağlantısını yapınız
 
 -Zamanlanmış görevlerden mp3 dönüştürme dosyasını 15 dk da bir (Veya kendi sisteminizin yoğunluğuna göre daha az) çalışıcak şekilde ayarlayınız
+
 wget 127.0.0.1/mp3-donustur.php 
+
 rm -f /root/mp3-donustur*
 
 -Monitoring klasöründen kayıtları kontrol ediniz.
