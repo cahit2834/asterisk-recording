@@ -31,6 +31,6 @@ Nasıl Çalıştırılır
 
 
 
-Buyatek 
+[Buyatek](https://Buyatek.com)
 
-Sizinsayfaniz.com
+[Sizinsayfaniz.com](https://Sizinsayfaniz.com)
