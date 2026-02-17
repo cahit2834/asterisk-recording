@@ -23,6 +23,7 @@
 -Lame yüklü olmalıdır, yum install lame kodu ile yükleyebilirsiniz.
 
 
+
 *Nasıl Çalıştırılır
 
 -Db.php dosyanız ile db bağlantısını yapınız
