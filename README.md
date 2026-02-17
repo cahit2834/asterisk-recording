@@ -1,13 +1,13 @@
 İssabel Pbx & Elastiks & Asterisk çağrı kayıt dosyalarını wav formatından mp3 formatına dönüştürmek.
 
 
-Kodun Çalıştırıldığı Sistem
+*Kodun Çalıştırıldığı Sistem
 
 -İssabel Pbx
 
 
 
-Kadun Yaptıkları
+*Kadun Yaptıkları
 
 - Çağrı kayıt dosyalarını wav formatından mp3 formatına dönüştürür.
   
@@ -18,8 +18,12 @@ Kadun Yaptıkları
 - Aynı Unic id ye sahip kayıtlarda boş olan recordingfile stununa aynı dosya ismini yazarak dinleme işlemini kolaylaştırır.
 
 
+*Gereksinimler
 
-Nasıl Çalıştırılır
+-Lame yüklü olmalıdır, yum install lame kodu ile yükleyebilirsiniz.
+
+
+*Nasıl Çalıştırılır
 
 -Db.php dosyanız ile db bağlantısını yapınız
 
