@@ -1,8 +1,10 @@
 İssabel Pbx & Elastiks & Asterisk çağrı kayıt dosyalarını wav formatından mp3 formatına dönüştürmek.
 
+
 Kodun Çalıştırıldığı Sistem
 
 -İssabel Pbx
+
 
 
 Kadun Yaptıkları
@@ -15,6 +17,8 @@ Kadun Yaptıkları
   
 - Aynı Unic id ye sahip kayıtlarda boş olan recordingfile stununa aynı dosya ismini yazarak dinleme işlemini kolaylaştırır.
 
+
+
 Nasıl Çalıştırılır
 
 -Db.php dosyanız ile db bağlantısını yapınız
@@ -24,6 +28,7 @@ Nasıl Çalıştırılır
 -Monitoring klasöründen kayıtları kontrol ediniz.
 
 - lame --cbr -b 12k satırındaki 12k kısmından mp3 sıkıştırma oranını değiştirebilirsiniz.
+
 
 
 Buyatek 
