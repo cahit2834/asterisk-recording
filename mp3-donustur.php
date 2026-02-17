@@ -1,6 +1,6 @@
 <?php
 
-include "-db.php";
+include "db.php";
 include "fonksiyon.php";
 	function dosya_uzanti_oku($dosya_adi) {
     return substr(strrchr($dosya_adi,'.'),1);
